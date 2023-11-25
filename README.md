@@ -14,3 +14,10 @@ This is an implementation of an interactive Rock-Paper-Scissors game, in which t
 Useage instructions:
 
 File structure of the project:
+converted_keras: This folder contains the keras_model.h5 file and labels.txt file. These contain the structure and parameters of a deep learning model. These are to be used in the python file as part of this project.
+
+manual_rps.py: This file contains the code to run a manual game of rock paper scissors, whereby the computer chooses a random option and the user inputs an option. Then a winner/loser is decided and displayed. If it is a tie, then the result is displayed as a tie.
+
+model_check.py: This file contains the code to verify that the imported impage model project works correctly.
+
+README.md: File containing the documentation and experience of the project.
